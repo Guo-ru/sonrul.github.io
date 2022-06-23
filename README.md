@@ -24,4 +24,4 @@
 * [天气 API](https://www.tianqiapi.com/)
 * [Hitokoto 一言](https://hitokoto.cn/)
 
-<img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2022-%E5%91%A8%E4%BA%94-blue"></a>
+<img src="https://img.shields.io/badge/Copyright%20%C2%A9%202021--2022-%E5%91%A8%E4%BA%94-blue"></a>
